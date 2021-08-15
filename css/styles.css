@@ -12,6 +12,10 @@ body {
   letter-spacing: 0.03em;
 }
 
+.header .link.current {
+  color: var(--accent-color);
+}
+
 .list {
   list-style: none;
 }
